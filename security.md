@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Streambooru Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/streambooru)
+[![Download Streambooru Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/bcSiEFLYLZqKa2I4i)
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-[![Download Streambooru Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/streambooru)
+[![Download Streambooru Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/bcSiEFLYLZqKa2I4i)
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-[![Download Streambooru Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/streambooru)
+[![Download Streambooru Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/bcSiEFLYLZqKa2I4i)
 
 **Version 2026.05 STREAM** — *The Ultimate Media Aggregation Node.* 👑
 
